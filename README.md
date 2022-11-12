@@ -2,4 +2,4 @@
 - 👀 I’m interested in hybrid Frontend, serverless cloud & Postgres
 - 🌱 I’m currently learning Postgres
 - 💞️ I’m looking to collaborate on my mission to "Make education free & fun for everyone."
-- 📫 How to reach me @brataaaaan
+- 📫 How to reach me on Twitter @brataaaaan

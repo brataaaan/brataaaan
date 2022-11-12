@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brataaaan
-- 👀 I’m interested in hybrid Frontend, serverless cloud & Postgres
-- 🌱 I’m currently learning Postgres
+- 👀 I’m interested in hybrid frontends, serverless cloud & (ironically) Postgres
+- 🌱 I’m currently learning Postgres with @supabase
 - 💞️ I’m looking to collaborate on my mission to "Make education free & fun for everyone."
-- 📫 How to reach me on Twitter @brataaaaan
+- 📫 Reach me on Twitter @brataaaaan
